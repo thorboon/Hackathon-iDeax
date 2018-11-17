@@ -7,7 +7,7 @@ Groepsleden:
 * Lars Follet         	- Firebase developer
 * Pieter Vleminckx    	- Firebase developer
 * Quinten Leysen  	- Projectmanager
-* Thor Boonaert       	- Designer
+* Thor Boonaert       	- Designer/developer
 
 Alle groepsleden zijn React Native developers.
 
